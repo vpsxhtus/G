@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Pretendard",
+  "previewText": "The font is known as Pretendard (Variable)",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "ggsans-Bold": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "ggsans-BoldItalic": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "ggsans-ExtraBold": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "ggsans-Medium": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "ggsans-MediumItalic": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "ggsans-Normal": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "ggsans-NormalItalic": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "ggsans-Semibold": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "NotoSans-Bold": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "NotoSans-ExtraBold": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "NotoSans-Medium": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "NotoSans-Normal": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "NotoSans-NormalItalic": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "NotoSans-Semibold": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf",
+    "SourceCodePro-Semibold": "https://github.com/orioncactus/pretendard/raw/refs/heads/main/packages/pretendard/dist/public/variable/PretendardVariable.ttf"
+  }
+}
